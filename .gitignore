@@ -1,0 +1,7 @@
+.editorconfig
+.config
+bin
+obj
+InventoryReservation.Api.http
+inventory_reservation.db
+.vs/
